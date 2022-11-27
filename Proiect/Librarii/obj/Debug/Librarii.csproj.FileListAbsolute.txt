@@ -1,0 +1,12 @@
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\bin\Debug\Librarii.dll
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\bin\Debug\Librarii.pdb
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\obj\Debug\Librarii.csprojAssemblyReference.cache
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\obj\Debug\Librarii.csproj.CoreCompileInputs.cache
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\obj\Debug\Librarii.dll
+C:\Users\Guliciuc\Desktop\Proiect\Librarii\obj\Debug\Librarii.pdb
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\bin\Debug\Librarii.dll
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\bin\Debug\Librarii.pdb
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\obj\Debug\Librarii.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\obj\Debug\Librarii.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\obj\Debug\Librarii.dll
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\Librarii\obj\Debug\Librarii.pdb

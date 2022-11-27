@@ -1,0 +1,36 @@
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\bin\Debug\NivelAccesData.dll
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\bin\Debug\NivelAccesData.pdb
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\bin\Debug\Librarii.dll
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\bin\Debug\Librarii.pdb
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csprojAssemblyReference.cache
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CoreCompileInputs.cache
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CopyComplete
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\obj\Debug\NivelAccesData.dll
+C:\Users\Guliciuc\Desktop\Proiect\NivelAccesData\obj\Debug\NivelAccesData.pdb
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\bin\Debug\NivelAccesData.dll
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\bin\Debug\NivelAccesData.pdb
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\bin\Debug\Librarii.dll
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\bin\Debug\Librarii.pdb
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csprojAssemblyReference.cache
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CoreCompileInputs.cache
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CopyComplete
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\obj\Debug\NivelAccesData.dll
+C:\Users\Guliciuc\Desktop\PIU\Proiect\NivelAccesData\obj\Debug\NivelAccesData.pdb
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\bin\Debug\NivelAccesData.dll
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\bin\Debug\NivelAccesData.pdb
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\bin\Debug\Librarii.dll
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\bin\Debug\Librarii.pdb
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\obj\Debug\NivelAccesData.csproj.CopyComplete
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\obj\Debug\NivelAccesData.dll
+C:\Users\Ema\Desktop\AN2_SEM2\PIU\Laboratoare\Proiect\NivelAccesData\obj\Debug\NivelAccesData.pdb
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\bin\Debug\NivelAccesData.dll
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\bin\Debug\NivelAccesData.pdb
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\bin\Debug\Librarii.dll
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\bin\Debug\Librarii.pdb
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\obj\Debug\NivelAccesData.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\obj\Debug\NivelAccesData.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\obj\Debug\NivelAccesData.csproj.CopyComplete
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\obj\Debug\NivelAccesData.dll
+C:\Users\Ema\Desktop\PIU\PROIECT_PIU_FINAL\Proiect PIU - Gestiune Farmacie\NivelAccesData\obj\Debug\NivelAccesData.pdb
