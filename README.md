@@ -1,4 +1,4 @@
-#Aplicație de gestiune a unei farmacii.   
+# Aplicație de gestiune a unei farmacii.   
 
 Opțiuni disponibile:  
 
