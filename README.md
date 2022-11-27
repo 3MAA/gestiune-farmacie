@@ -1,10 +1,14 @@
-Aplicație de gestiune a unei farmacii. Opțiuni disponibile:
+#Aplicație de gestiune a unei farmacii.   
 
-Angajat:
-•	adăugare medicament;
-•	editare/ștergere medicament;
-•	afișare listă medicamente;
+Opțiuni disponibile:  
+
+Angajat:  
+•	adăugare medicament;  
+•	editare/ștergere medicament;  
+•	afișare listă medicamente;  
 •	căutare medicament.
-Client:
-•	crearea/plasarea unei comenzi online 
+
+Client:  
+•	crearea/plasarea unei comenzi online  
+
 
